@@ -66,14 +66,7 @@ I'm a backend engineer who likes systems that stay up under load: rate limiting,
 - 🥇 **Top 50** on the Chitkara University coding leaderboard
 - 💡 **Winner**, Cre'oVate Idea Hackathon (Healthcare), 1st among 15 teams
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Parth-Sohal&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parth-Sohal&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ## 🎯 Currently
 
